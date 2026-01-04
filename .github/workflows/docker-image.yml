@@ -32,4 +32,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: <your-dockerhub-username>/<repo-name>:latest
+        tags: anusha0509/builddockerimage:latest
